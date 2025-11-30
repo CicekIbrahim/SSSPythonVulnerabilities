@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
+  <diagram name="Page-1" id="oEGUscPnzrQkQ7zmNHUV">
+    <mxGraphModel dx="1349" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9UmPB-FOcz65wD45Xxud-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Github repos" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="130" as="sourcePoint" />
+            <mxPoint x="349.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Checkout&lt;br&gt;affected&lt;br&gt;repos" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Run pip-audit" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="JSON output files" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-9" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="290" as="sourcePoint" />
+            <mxPoint x="540" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Parse &amp;amp; Convert&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CSV-files" vertex="1">
+          <mxGeometry height="50" width="80" x="500" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NVD.org&lt;br&gt;JSON files" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-15" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="539.5" y="490" as="sourcePoint" />
+            <mxPoint x="539.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Parse &amp;amp; Convert&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Findings" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="9UmPB-FOcz65wD45Xxud-19" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="384.5" as="sourcePoint" />
+            <mxPoint x="410" y="384.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

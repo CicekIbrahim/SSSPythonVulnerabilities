@@ -1,0 +1,11 @@
+pandas
+matplotlib
+requests
+tqdm
+pyarrow
+pyqt5
+numpy
+seaborn
+gitpython
+pip-audit
+pyyaml

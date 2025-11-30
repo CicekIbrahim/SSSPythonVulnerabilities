@@ -1,0 +1,22 @@
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Large data produced by Component 2
+data/repos/
+data/nvd/
+outputs/
+
+
+# Logs / miscellaneous
+*.log
+

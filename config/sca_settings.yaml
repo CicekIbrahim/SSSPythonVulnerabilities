@@ -1,0 +1,15 @@
+repo_root: data/repos
+max_repos: 10
+sca_tool: pip-audit
+pip_audit:
+  extra_args: []
+  timeout_seconds: 900  # set to null to disable
+  skip_completed: true
+required_manifest_globs:
+  - "requirements*.txt"
+max_manifest_files: 6
+max_manifest_file_size_kb: 256
+max_dependency_entries: 150
+skip_repos: []
+auto_cleanup_rejected: true
+
