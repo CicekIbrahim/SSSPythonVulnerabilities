@@ -1,0 +1,29 @@
+============================================================
+SCA-NVD DATA ANALYSIS SUMMARY REPORT
+============================================================
+Generated on: 2025-11-30 19:29:57
+
+DATASET STATISTICS:
+--------------------
+SCA Findings: 981 records
+NVD Records: 245969 records
+Merged Records: 930 records
+NVD Coverage: 94.8% of SCA findings
+
+CVE YEAR ANALYSIS:
+------------------
+Year Range: 2015 - 2025
+Most Common Year: 2024
+Average Year: 2022.6
+
+CVSS SCORE ANALYSIS:
+-------------------
+cvss_v3_score:
+  Mean: 6.54
+  Median: 7.40
+  High Risk (>7.0): 483 (51.9%)
+
+cvss_v2_score:
+  Mean: 1.65
+  Median: 0.00
+  High Risk (>7.0): 42 (4.5%)
